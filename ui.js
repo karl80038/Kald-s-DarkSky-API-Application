@@ -16,7 +16,7 @@ class UI {
                     <ul class="list-group mt-3">
                             <li class="list-group-item">Timezone: ${weatherData.timezone}</li>
                             <li class="list-group-item">Icon: ${upper}</li>
-                            <li class="list-group-item">Temperature: ${weatherData.currently.temperature}</li>
+                            <li class="list-group-item">Temperature: ${weatherData.currently.temperature} ˚C</li>
                     </ul>
                 </div>
 
